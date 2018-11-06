@@ -1,0 +1,70 @@
+Now timing: Locks, 5 Prod, 2 Con.
+Still running. Consumed 4 items in 0 seconds.
+Still running. Consumed 44 items in 20 seconds.
+Still running. Consumed 84 items in 40 seconds.
+Still running. Consumed 124 items in 60 seconds.
+Still running. Consumed 164 items in 80 seconds.
+Still running. Consumed 204 items in 100 seconds.
+Still running. Consumed 244 items in 120 seconds.
+Still running. Consumed 284 items in 140 seconds.
+Still running. Consumed 324 items in 160 seconds.
+Still running. Consumed 364 items in 180 seconds.
+Still running. Consumed 404 items in 200 seconds.
+Still running. Consumed 444 items in 220 seconds.
+Still running. Consumed 484 items in 240 seconds.
+Finished running: Locks, 5 Prod, 2 Con. in 249380ms.
+Now timing: Locks, 2 Prod, 5 Con.
+Still running. Consumed 10 items in 0 seconds.
+Still running. Consumed 110 items in 20 seconds.
+Finished running: Locks, 2 Prod, 5 Con. in 39065ms.
+Now timing: Isolated Section, 5 Prod, 2 Cons
+Still running. Consumed 4 items in 0 seconds.
+Still running. Consumed 44 items in 20 seconds.
+Still running. Consumed 84 items in 40 seconds.
+Still running. Consumed 124 items in 60 seconds.
+Still running. Consumed 164 items in 80 seconds.
+Still running. Consumed 204 items in 100 seconds.
+Still running. Consumed 244 items in 120 seconds.
+Still running. Consumed 284 items in 140 seconds.
+Still running. Consumed 324 items in 160 seconds.
+Still running. Consumed 364 items in 180 seconds.
+Still running. Consumed 404 items in 200 seconds.
+Still running. Consumed 444 items in 220 seconds.
+Still running. Consumed 484 items in 240 seconds.
+Finished running: Isolated Section, 5 Prod, 2 Cons in 249527ms.
+Now timing: Isolated Section, 2 Prod, 5 Cons
+Still running. Consumed 10 items in 0 seconds.
+Still running. Consumed 110 items in 20 seconds.
+Finished running: Isolated Section, 2 Prod, 5 Cons in 39068ms.
+Now timing: Atomic, 5 Prod, 2 Cons
+Still running. Consumed 4 items in 0 seconds.
+Still running. Consumed 44 items in 20 seconds.
+Still running. Consumed 84 items in 40 seconds.
+Still running. Consumed 124 items in 60 seconds.
+Still running. Consumed 164 items in 80 seconds.
+Still running. Consumed 204 items in 100 seconds.
+Still running. Consumed 244 items in 120 seconds.
+Still running. Consumed 284 items in 140 seconds.
+Still running. Consumed 324 items in 160 seconds.
+Still running. Consumed 364 items in 180 seconds.
+Still running. Consumed 404 items in 200 seconds.
+Still running. Consumed 444 items in 220 seconds.
+Still running. Consumed 484 items in 240 seconds.
+Finished running: Atomic, 5 Prod, 2 Cons in 249352ms.
+Now timing: Atomic, 2 Prod, 5 Cons
+Still running. Consumed 10 items in 0 seconds.
+Still running. Consumed 110 items in 20 seconds.
+Finished running: Atomic, 2 Prod, 5 Cons in 39082ms.
+Now timing: Actor, 5 Prod, 2 Con
+[INFO] [10/31/2018 21:54:07.980] [Controller-akka.actor.default-dispatcher-9] [akka://Controller/user/printerActor] ate item#: 0
+[INFO] [10/31/2018 21:54:58.019] [Controller-akka.actor.default-dispatcher-5] [akka://Controller/user/printerActor] ate item#: 100
+[INFO] [10/31/2018 21:55:48.057] [Controller-akka.actor.default-dispatcher-10] [akka://Controller/user/printerActor] ate item#: 200
+[INFO] [10/31/2018 21:56:38.093] [Controller-akka.actor.default-dispatcher-4] [akka://Controller/user/printerActor] ate item#: 300
+[INFO] [10/31/2018 21:57:28.153] [Controller-akka.actor.default-dispatcher-9] [akka://Controller/user/printerActor] ate item#: 400
+[INFO] [10/31/2018 21:58:18.222] [Controller-akka.actor.default-dispatcher-5] [akka://Controller/user/printerActor] ate item#: 500
+Finished running: Actor, 5 Prod, 2 Con in 251258ms.
+Now timing: Actor, 2 Prod, 5 con
+[INFO] [10/31/2018 21:58:19.265] [Controller-akka.actor.default-dispatcher-3] [akka://Controller/user/printerActor] ate item#: 0
+[INFO] [10/31/2018 21:58:39.295] [Controller-akka.actor.default-dispatcher-4] [akka://Controller/user/printerActor] ate item#: 100
+Finished running: Actor, 2 Prod, 5 con in 41065ms.
+[INFO] [10/31/2018 21:58:59.323] [Controller-akka.actor.default-dispatcher-6] [akka://Controller/user/printerActor] ate item#: 200
