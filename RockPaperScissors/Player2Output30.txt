@@ -1,0 +1,131 @@
+C:\Users\Main\Documents\programming\ParallelProcessing>java Player 2 30
+Starting up player2. Playing 30 games!
+Recieved connection from: /127.0.0.1:57619
+Connecting to localhost on port 5555
+Just connected to localhost/127.0.0.1:5555
+Connecting to localhost on port 5557
+Just connected to localhost/127.0.0.1:5557
+Recieved connection from: /127.0.0.1:57625
+Round: 1
+Player 2: ROCK vs. Opponent: SCISSORS
+Player 2: ROCK vs. Opponent: SCISSORS
+Player 2 scored 2 points
+Player 2: ROCK vs. Opponent: PAPER
+Player 2: ROCK vs. Opponent: PAPER
+Player 2 scored 0 points
+Round: 2
+Player 2: PAPER vs. Opponent: ROCK
+Player 2: PAPER vs. Opponent: ROCK
+Player 2 scored 2 points
+Round: 3
+Player 2: PAPER vs. Opponent: ROCK
+Player 2: PAPER vs. Opponent: SCISSORS
+Player 2 scored 1 points
+Round: 4
+Player 2: PAPER vs. Opponent: SCISSORS
+Player 2: PAPER vs. Opponent: PAPER
+Player 2 scored 0 points
+Round: 5
+Player 2: PAPER vs. Opponent: SCISSORS
+Player 2: PAPER vs. Opponent: PAPER
+Player 2 scored 0 points
+Round: 6
+Player 2: PAPER vs. Opponent: ROCK
+Player 2: PAPER vs. Opponent: SCISSORS
+Player 2 scored 1 points
+Round: 7
+Player 2: ROCK vs. Opponent: SCISSORS
+Player 2: ROCK vs. Opponent: ROCK
+Player 2 scored 1 points
+Round: 8
+Player 2: SCISSORS vs. Opponent: PAPER
+Player 2: SCISSORS vs. Opponent: SCISSORS
+Player 2 scored 1 points
+Round: 9
+Player 2: SCISSORS vs. Opponent: PAPER
+Player 2: SCISSORS vs. Opponent: SCISSORS
+Player 2 scored 1 points
+Round: 10
+Player 2: SCISSORS vs. Opponent: SCISSORS
+Player 2: SCISSORS vs. Opponent: PAPER
+Player 2 scored 1 points
+Round: 11
+Player 2: SCISSORS vs. Opponent: ROCK
+Player 2: SCISSORS vs. Opponent: PAPER
+Player 2 scored 1 points
+Round: 12
+Player 2: ROCK vs. Opponent: PAPER
+Player 2: ROCK vs. Opponent: PAPER
+Player 2 scored 0 points
+Round: 13
+Player 2: SCISSORS vs. Opponent: SCISSORS
+Player 2: SCISSORS vs. Opponent: SCISSORS
+Player 2 scored 0 points
+Round: 14
+Player 2: SCISSORS vs. Opponent: ROCK
+Player 2: SCISSORS vs. Opponent: SCISSORS
+Player 2 scored 0 points
+Round: 15
+Player 2: ROCK vs. Opponent: SCISSORS
+Player 2: ROCK vs. Opponent: ROCK
+Player 2 scored 1 points
+Round: 16
+Player 2: PAPER vs. Opponent: ROCK
+Player 2: PAPER vs. Opponent: SCISSORS
+Player 2 scored 1 points
+Round: 17
+Player 2: SCISSORS vs. Opponent: ROCK
+Player 2: SCISSORS vs. Opponent: PAPER
+Player 2 scored 1 points
+Round: 18
+Player 2: PAPER vs. Opponent: SCISSORS
+Player 2: PAPER vs. Opponent: PAPER
+Player 2 scored 0 points
+Round: 19
+Player 2: ROCK vs. Opponent: SCISSORS
+Player 2: ROCK vs. Opponent: SCISSORS
+Player 2 scored 2 points
+Round: 20
+Player 2: SCISSORS vs. Opponent: ROCK
+Player 2: SCISSORS vs. Opponent: PAPER
+Player 2 scored 1 points
+Round: 21
+Player 2: SCISSORS vs. Opponent: PAPER
+Player 2: SCISSORS vs. Opponent: ROCK
+Player 2 scored 1 points
+Round: 22
+Player 2: PAPER vs. Opponent: PAPER
+Player 2: PAPER vs. Opponent: PAPER
+Player 2 scored 0 points
+Round: 23
+Player 2: SCISSORS vs. Opponent: PAPER
+Player 2: SCISSORS vs. Opponent: SCISSORS
+Player 2 scored 1 points
+Round: 24
+Player 2: PAPER vs. Opponent: SCISSORS
+Player 2: PAPER vs. Opponent: SCISSORS
+Player 2 scored 0 points
+Round: 25
+Player 2: ROCK vs. Opponent: PAPER
+Player 2: ROCK vs. Opponent: SCISSORS
+Player 2 scored 1 points
+Round: 26
+Player 2: PAPER vs. Opponent: PAPER
+Player 2: PAPER vs. Opponent: ROCK
+Player 2 scored 1 points
+Round: 27
+Player 2: SCISSORS vs. Opponent: PAPER
+Player 2: SCISSORS vs. Opponent: ROCK
+Player 2 scored 1 points
+Round: 28
+Player 2: ROCK vs. Opponent: PAPER
+Player 2: ROCK vs. Opponent: PAPER
+Player 2 scored 0 points
+Round: 29
+Player 2: SCISSORS vs. Opponent: ROCK
+Player 2: SCISSORS vs. Opponent: PAPER
+Player 2 scored 1 points
+Round: 30
+Closing connection with /127.0.0.1:57619
+Closing connection with /127.0.0.1:57625
+My final score (Player2): 23
